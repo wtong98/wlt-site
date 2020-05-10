@@ -1,0 +1,33 @@
+// Colors
+//
+$theme: #6c71c4;
+$text: #073642;
+$light-grey: #fdf6e3;         /* background  color */
+$dark-grey: #eee8d5;          /* dark highlight */
+$highlight-grey: #eee8d5;
+$midnightblue: #073642;
+
+// Fonts
+//
+$fonts: "Open Sans", "Trebuchet MS", Verdana, "Verdana Ref", "Segoe UI", Candara, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+$code-fonts: Consolas, "Andale Mono WT", "Andale Mono", Menlo, Monaco, "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, "YaHei Consolas Hybrid", monospace, "Segoe UI Emoji", "PingFang SC", "Microsoft YaHei";
+
+// Mixins
+//
+@mixin dimmed {
+  opacity: .6;
+}
+
+@mixin aTag {
+  a {
+    word-wrap: break-word;
+    border: none;
+    box-shadow: inset 0 -2px 0 $theme;
+    transition-property: box-shadow;
+    transition-duration: .1s;
+
+    &:hover {
+      box-shadow: inset 0 -1.5em 0 $theme;
+    }
+  }
+}

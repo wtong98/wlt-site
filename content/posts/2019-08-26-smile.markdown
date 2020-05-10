@@ -1,0 +1,31 @@
+---
+title: Smile.
+date: "2019-08-26T12:36:54Z"
+preview: /images/smile/preview.jpg
+images:
+- "/images/smile/dark_forest.jpg"
+tags:
+- personal
+- curio
+---
+
+Sometimes, it's just been a bad day.
+
+*Audience: everyone*
+<!--more-->
+{{< figure src="/images/smile/dark_forest.jpg"
+           alt="Dark forest"
+           caption="Source: https://www.pinterest.com/pin/94364554676402286/" >}}
+
+Smile.
+
+Go ahead, do it. Right here. Right now.
+
+Feel the corners of your mouth rise, your cheeks tighten, your eyes crinkle.
+Maybe flash a little teeth, if you're feeling good.
+
+Hold it for a few seconds.
+
+Deep breath.
+
+And relax, but see if you can keep a small smile resting on your lips.
