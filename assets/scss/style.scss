@@ -520,7 +520,7 @@ p.img-404 {
 .bg-img {
     width: 100vw;
     height: 100vh;
-    opacity: .05;
+    opacity: .03;
     z-index: -1;
     position: fixed;
     top: 0;
@@ -643,6 +643,10 @@ hr.post-end {
     h5:hover a.anchor svg,
     h6:hover a.anchor svg {
         visibility: visible;
+    }
+
+    h2 {
+        margin-block-start: 1.5em;
     }
 }
 

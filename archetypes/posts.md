@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace (substr .Name 11) "-" " " | title }}"
 date: {{ .Date }}
 preview: false
 draft: true
@@ -9,3 +9,7 @@ images:
 tags:
   - untagged
 ---
+Summary text goes here
+
+*audience: everyone*
+<!--more-->

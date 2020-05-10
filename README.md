@@ -2,9 +2,16 @@
 Hugo infrastructure for wlt blog. Better documentation forthcoming.
 
 ## TODO
-- SEO optimization (and Google search engine console)
+- SEO optimization:
+  -> improved description and title
+  -> consider using Twitter?
+  -> social media features (e.g. fb likes / shares, sameAs tag)
+  -> robots.txt
+  -> https://www.wlt.coffee not resolve properly
+  -> og:image
 - Bitcoin donations
 - Link hype post to jekyll post
+- Update favicons
 - Look into related posts
 
 ## Potential ideas for future posts:
@@ -34,6 +41,7 @@ Second tier:
 - howto
 - curio
 - education
+- announcement
 
 Third tier (?):
 
