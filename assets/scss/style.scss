@@ -503,6 +503,13 @@ p.img-404 {
                 .post-summary {
                     display: table-cell;
                     margin-bottom: 1em;
+
+                    a {
+                        display: inline;
+                        justify-content: space-between;
+                        align-items: baseline;
+                        padding: 12px 0;
+                    }
                 }
             }
         }

@@ -12,6 +12,7 @@ Hugo infrastructure for wlt blog. Better documentation forthcoming.
 - Bitcoin donations
 - Link hype post to jekyll post
 - Update favicons
+- # minutes to read
 - Look into related posts
 
 ## Potential ideas for future posts:

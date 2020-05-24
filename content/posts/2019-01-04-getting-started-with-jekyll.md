@@ -34,7 +34,7 @@ may vary.
 **EDIT:** I no longer use Jekyll and have since switched to
 [Hugo](https://gohugo.io/), a static generator written in Go. It's faster,
 cleaner, the documentation is better, and an all around a pleasure to use.
-Highly recommend. A post about Hugo is upcoming.
+Highly recommend. For more updates and hype, check out [this post]({{< ref "2020-05-10-welcome-to-the-new-WLT.md" >}}).
 
 
 ## Initial steps

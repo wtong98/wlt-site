@@ -37,8 +37,8 @@ genuinely meaningful activity. There's creativity, imagination, a chance
 to sprinkle your thoughts in a text file and watch it spring to life.
 
 In this two-part guide, I will give you the tools (and ideally the mindset) to
-begin your programming journey. This first part focuses on the basic skills to
-start. The second part dives deeper into the craft.
+begin your programming journey. This first part focuses on the command line and
+other basic skills to start. The second part starts the actual programming.
 
 Whether you're hoping to pick up a new hobby or gunning for a software
 engineering future, this is the perfect place to begin.
@@ -56,7 +56,7 @@ note to your mom, telling her what to get from Subway, or jotting down
 a cooking recipe to remember for later.[^2]
 
 But instead of your spouse, Mom, or your future self, the audience for our
-particular instructions are [computers](https://wlt.soy/tech/curio/2019/01/12/from-1011-to-laptop-how-to-build-a-computer-from-binary.html).
+particular instructions are [computers]({{< ref "2019-01-12-from-1011-to-laptop-how-to-build-a-computer-from-binary.md" >}}).
 Computers don't speak English ([yet](https://towardsdatascience.com/an-easy-introduction-to-natural-language-processing-b1e2801291c1))
 so it's up to the programmer to learn their language. That's the easy part,
 and the part we'll focus on in this guide.
