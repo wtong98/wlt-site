@@ -1,8 +1,8 @@
 ---
 title: "Programming for Noobs II: Charming the Python"
-date: 2020-05-12T16:25:14-05:00
+date: 2020-05-23T16:25:14-05:00
 preview: /images/programming-for-n00bs-ii/preview.jpg
-draft: true
+draft: false
 toc: true
 math: true
 images:
