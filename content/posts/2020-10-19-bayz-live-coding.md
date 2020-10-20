@@ -2,7 +2,7 @@
 title: "bayz: live coding + bayesian program learning"
 date: 2020-10-19T20:54:57-05:00
 preview: /images/bayz/preview.png
-draft: true
+draft: false
 toc: true
 math: false
 images:
