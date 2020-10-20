@@ -7,10 +7,8 @@ Hugo infrastructure for wlt blog. Better documentation forthcoming.
   -> consider using Twitter?
   -> social media features (e.g. fb likes / shares, sameAs tag)
   -> robots.txt
-  -> https://www.wlt.coffee not resolve properly
   -> og:image
-- Bitcoin donations
-- Link hype post to jekyll post
+- Bitcoin donations (more user friendly)
 - Update favicons
 - # minutes to read
 - Look into related posts
@@ -35,6 +33,7 @@ Hugo infrastructure for wlt blog. Better documentation forthcoming.
 ## tags
 First tier:
 - tech
+- math
 - personal
 - project (subcategories needed here)
 
@@ -43,6 +42,9 @@ Second tier:
 - curio
 - education
 - announcement
+
+Second tier (project)
+- music
 
 Third tier (?):
 
