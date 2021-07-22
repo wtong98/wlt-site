@@ -12,6 +12,7 @@ Hugo infrastructure for wlt blog. Better documentation forthcoming.
 - Update favicons
 - # minutes to read
 - Look into related posts
+- Update fonts
 
 ## Potential ideas for future posts:
 - music
