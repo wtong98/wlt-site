@@ -14,7 +14,7 @@ googleAnalytics = "UA-131763341-1"
 disqusShortname = "wlt-1"
 
 [author]
-  name = "William Lingxiao Tong"
+  name = "William L. Tong"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -44,7 +44,7 @@ disqusShortname = "wlt-1"
   # gitUrl = "https://github.com/username/repository/commit/"
 
   # Toggling this option needs to rebuild SCSS, requires Hugo extended version
-  justifyContent = false  # Set "text-align: justify" to `.content`.
+  justifyContent = true  # Set "text-align: justify" to `.content`.
 
   relatedPosts = false  # Add a related content section to all single posts page
 

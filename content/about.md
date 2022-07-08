@@ -1,13 +1,17 @@
 ---
-date: "2014-04-09"
+date: "2022-07-07"
 title: Hi, my name is William
 images:
 - /images/global/christmas2018.jpg
 ---
 
-I'm a student at Columbia University, burgeoning software engineer, and
-freshly-minted blogger. I enjoy reading, running, and plant-based whole foods. I
-don't enjoy grades, sitting too long, and not-plant-based not-whole (partial?) foods.
+I'm a grad student at Harvard, scientist-in-training, and part-time
+[longboarder](https://www.yourdictionary.com/longboarder). I enjoy reading,
+running, and plant-based whole foods. I enjoy somewhat less sitting for too
+long, back-to-back Zoom meetings, and longboarding in the rain. In my spare
+time, you might find me tucked away with a book, jogging through a park, or
+posing for beauty shots:
+
 
 {{< figure src="/images/global/christmas2018.jpg" alt="A very merry Christmas" caption="Christmas 2018" >}}
 
