@@ -13,7 +13,7 @@ tags:
 Introducing bayz: a live coding platform that combines the latest and greatest
 in Bayesian machine learning with ~~uber nerd~~ avant-garde performative music.
 
-*audience: Professor Mark, and anyone else who stumbles here*
+*Audience: Professor Mark, and anyone else who stumbles here*
 <!--more-->
 
 {{< figure src="/images/bayz/bayz_band.png"

@@ -11,5 +11,5 @@ tags:
 ---
 Summary text goes here
 
-*audience: everyone*
+*Audience: everyone*
 <!--more-->

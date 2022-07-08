@@ -16,7 +16,7 @@ get our hands dirty with actual programming. If you haven't read
 not a problem. Feel free to jump in right here, or go back to check out the
 command-line wizardry we covered previously.
 
-*audience: curious folks who may (or may not) have read Part I of this series*
+*Audience: curious folks who may (or may not) have read Part I of this series*
 <!--more-->
 
 {{< figure src="/images/programming-for-n00bs-ii/matrix_wallpaper_crop.jpg"
