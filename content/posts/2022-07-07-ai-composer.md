@@ -1,6 +1,6 @@
 ---
 title: "A composer, a professor, and a computer walk into a bar..."
-date: 2022-07-10T20:43:41-04:00
+date: 2022-07-07T20:43:41-04:00
 preview: /images/ai-composer/preview.jpg
 draft: false
 toc: true
