@@ -1,7 +1,7 @@
 ---
 title: "A composer, a professor, and a computer walk into a bar..."
 date: 2022-07-07T20:43:41-04:00
-preview: /images/ai-personhood/preview.png
+preview: /images/ai-composer/preview.png
 draft: true
 toc: true
 math: false
@@ -64,7 +64,7 @@ and music composer.
 David Cope, a professor of algorithmic and computer music at UC Santa Cruz. EMI
 learns to imitate the style of various composers by studying their compositions.
 
-{{< figure src="/images/ai-personhood/david_cope.jpg"
+{{< figure src="/images/ai-composer/david_cope.jpg"
    alt="David Cope"
    caption="David Cope, creator of EMI. [Source](https://archive.nytimes.com/www.nytimes.com/library/cyber/week/111197music.html)"
    class="right" >}}
@@ -118,8 +118,8 @@ Below are links to two different pieces. One was written by a human. The other
 was written by a machine. Listen to both, multiple times if you'd like, then
 decide which is which.
 
-* [Piece A](google.com)
-* [Piece B](google.com)
+* [Piece A](/audio/ai-composer/piece_a.mp3)
+* [Piece B](/audio/ai-composer/piece_b.mp3)
 
 Which piece did you like better? Which sounded more "human"? Did you feel
 any emotions for either, or both? For the piece that sounds like a machine's,
@@ -221,7 +221,7 @@ All artwork are human generated. asciiart.eu
 ```
 
 I have a confession to make -- as it happens, **both** pieces are written by
-a machine!
+a machine! [^3]
 
 But before you found it, did you genuinely believe one of the pieces was
 authored by a human? Does knowing the truth alter your listening experience?
@@ -229,7 +229,7 @@ authored by a human? Does knowing the truth alter your listening experience?
 
 ## "Real" music?
 The modern-day successor to EMI is AIVA, which composed both pieces you just listened
-to.[^3] The algorithm is designed by Aiva Technologies, a European startup that
+to. The algorithm is designed by Aiva Technologies, a European startup that
 develops machine learning solutions for composing themed, cinematic music. As
 you've hopefully experienced, AIVA’s music is often characterized as being
 emotional, coherent, and difficult to distinguish from a score written by a
@@ -264,14 +264,11 @@ replacing it. Stuck on a melody? Use
 [MusicVAE](https://magenta.tensorflow.org/music-vae) to come up with additional
 ideas. Struggling to nail down that exact synth sound you want?
 [NSynth](https://magenta.tensorflow.org/nsynth) is here to help. I've
-experimented in this space myself, building an [AI-assisted tool for live
-coding music performances](/posts/2020-10-19-bayz-live-coding/). Developing
-creative aids like these is virtually unthinkable without modern AI techniques.
-Further, the state-of-the-art in end-to-end AI music composition is mostly quite
-far from reaching the same levels as human artists, [^4] though that may change
-in the coming decades. For now, AI-as-composer-aid is well positioned to
-leverage the strengths of AI-driven composition, without wholly
-sacrificing the human artist.
+experimented in this space myself, building an [AI-assisted tool for live coding
+music performances](/posts/2020-10-19-bayz-live-coding/). Developing creative
+aids like these is virtually unthinkable without modern AI techniques. With
+these tools in hand, AI-as-composer-aid is well positioned to leverage the
+strengths of AI-driven composition, without wholly sacrificing the human artist.
 
 
 ## Composers of tomorrow
@@ -326,9 +323,9 @@ and [some](https://arxiv.org/abs/2108.12290) [of](https://www.tandfonline.com/do
 Also, [music21](https://web.mit.edu/music21/) is an excellent Python library for
 experimenting in algorithmic music composition.
 
-* **gripe about the intrusion of AI in music** You would find a kindred soul in
+* **gripe about the intrusion of AI in music** You might find a kindred soul in
 [Walter Benjamin](https://web.mit.edu/allanmc/www/benjamin.pdf), who grappled
-with related issues when cameras entered the scene. 
+with related issues around the relationship between art and technology.
 
 * **learn more about broader issues around AI, creativity, and personhood** [This review](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198844037.001.0001/oso-9780198844037-chapter-7)
 is a great place to start. You might also be interested in
@@ -350,10 +347,12 @@ application of AI to portraiture.
     https://archive.nytimes.com/www.nytimes.com/library/cyber/week/111197music.html
 
 [^3]:
-    If you liked it, more work by AIVA is readily accessible on [YouTube](https://www.youtube.com/channel/UCykVChITx5kqBoGkzfz8iZg)
+    "Piece A" is ["A Bucket of Spring"](https://www.youtube.com/watch?v=57v6z1YikNA).
+    "Piece B" is ["Evening Star"](https://www.youtube.com/watch?v=UAlJIp3J7io).
+    Both pieces are composed by [AIVA](https://www.aiva.ai/). If you liked them, more are readily accessible on [YouTube](https://www.youtube.com/channel/UCykVChITx5kqBoGkzfz8iZg)
     and [Spotify](https://open.spotify.com/artist/785Ystnoa1blYHi5DmBcqp).
 
-[^4]: So how can EMI and AIVA sound so good? A few reasons. Rather than compose
+<!-- [^4]: So how can EMI and AIVA sound so good? A few reasons. Rather than compose
     a piece from scratch, EMI mostly scrambles and recombines existing pieces in
     novel patterns to produce an "original" composition in the style of a target
     composer. With the advent of [deep
@@ -368,7 +367,7 @@ application of AI to portraiture.
     known. For the pieces you heard above, it is likely there is some level
     of human supervision guiding the creative process, if only filtering
     out the bad examples that AIVA composes, and publishing only the 1-in-100
-    excellent outputs on YouTube.
+    excellent outputs on YouTube. -->
 
 
 
