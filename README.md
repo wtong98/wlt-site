@@ -15,6 +15,8 @@ Hugo infrastructure for wlt blog. Better documentation forthcoming.
 - Update fonts
 
 ## Potential ideas for future posts:
+- clean code
+- French press / coffee brewing
 - music
 - survival guide for students
 - fantasy / RPG related
